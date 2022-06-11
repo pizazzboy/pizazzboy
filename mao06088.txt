@@ -1,5 +1,5 @@
 {
-"spider":"你的0608.jar地址",
+"spider":"https://github.com/pizazzboy/pizazzboy/blob/main/mao06088.txt",
 
 "sites":[
 
