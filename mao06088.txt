@@ -1,5 +1,5 @@
 {
-"spider":"https://github.com/pizazzboy/pizazzboy/blob/main/BL0608.jar",
+"spider":"https://pizazzboy.github.io/pizazzboy/BL0608.jar",
 
 "sites":[
 
