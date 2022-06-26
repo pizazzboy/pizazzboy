@@ -84,12 +84,12 @@ Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterab
 {"key":"腾讯官网","name":"腾讯官网","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0}
 
 ],
-以下直播列表
-"lives": [
-proxy加载列表
-{"group":"redirect","channels":[
-{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZqMzY1Lm1sLzAvdHYudHh0"]}
-]}
+//以下直播列表
+//"lives": [
+//proxy加载列表
+//{"group":"redirect","channels":[
+//{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZqMzY1Lm1sLzAvdHYudHh0"]}
+//]}
 
 {"group": "CCTV","channels": [{"name":"022/5/29更新接口--反馈蜗牛ci.ci/672","urls":["http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8","http://183.232.171.91/tx.hls.huya.com/src/1199512837905-1199512837905-5226813369159254016-2399025799266-10057-A-0-1.m3u8","http://dyscdnali3.douyucdn.cn/live/2901080rH4xX1NNE.flv?uuid=","http://dyscdnali1.douyucdn.cn/live/2901080rH4xX1NNE.flv?uuid=","http://tx2play1.douyucdn.cn/live/2901080rH4xX1NNE.xs?uuid="]},
 {"name":"中国天气","urls":["http://39.135.55.105:6610/PLTV/88888888/224/3221227210/index.m3u8?servicetype=1","http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227210/index.m3u8?servicetype=1","http://140.207.241.2:8080/live/program/live/zgqx/1300000/mnf.m3u8","http://39.135.230.71/ott.fj.chinamobile.com/PLTV/88888888/224/3221227005/index.m3u8","http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8"]},
