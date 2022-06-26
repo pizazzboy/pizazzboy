@@ -1,5 +1,5 @@
 {
-"spider":"你的0608.jar地址",
+"spider":"https://pizazzboy.github.io/pizazzboy/BL0608.jar",
 
 "sites":[
 
